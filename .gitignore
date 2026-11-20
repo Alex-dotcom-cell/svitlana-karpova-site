@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# PDF files are excluded by default.
+# Only the explicitly approved public CV is included.
+*.pdf
+!/assets/docs/lebenslauf-svitlana-karpova-oeffentlich.pdf
+
+# Temporary backups
+*.bak
+*.before-*
+
+# Duplicate source media kept outside website asset paths
+/DSC_0161.jpg
+/Svitlana Karpova.MP4

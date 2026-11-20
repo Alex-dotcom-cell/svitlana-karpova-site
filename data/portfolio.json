@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "id": "kangoo-jumps", "title": "Kangoo Jumps" },
+    { "id": "kindertraining", "title": "Training mit Kindern" },
+    { "id": "fitnesskurse", "title": "Fitnesskurse" },
+    { "id": "sportanlagen", "title": "Sportanlagen" },
+    { "id": "sonstige", "title": "Sonstige Projekte" }
+  ],
+  "items": []
+}
